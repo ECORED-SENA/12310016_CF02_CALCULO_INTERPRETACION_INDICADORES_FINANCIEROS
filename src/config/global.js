@@ -312,14 +312,135 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acción correctiva',
+      significado:
+        'medida que se aplica para atender un problema financiero identificado en los resultados del análisis.',
+    },
+    {
+      termino: 'Acción de mejora',
+      significado:
+        'medida orientada a optimizar procesos, resultados o condiciones financieras que pueden fortalecerse.',
+    },
+    {
+      termino: 'Acción preventiva',
+      significado:
+        'medida que busca anticipar riesgos financieros antes de que afecten la operación de la empresa.',
+    },
+    {
+      termino: 'Apalancamiento financiero',
+      significado:
+        'efecto que tienen los gastos financieros o intereses sobre los resultados de la empresa.',
+    },
+    {
+      termino: 'Apalancamiento operativo',
+      significado:
+        'efecto que tienen los costos fijos sobre la utilidad operacional cuando cambian las ventas.',
+    },
+    {
+      termino: 'Apalancamiento total',
+      significado:
+        'efecto conjunto del apalancamiento operativo y financiero sobre los resultados empresariales.',
+    },
+    {
+      termino: 'Escenario financiero',
+      significado:
+        'simulación que permite analizar cómo cambian los resultados cuando se modifican ventas, costos, gastos o deuda.',
+    },
+    {
+      termino: 'Informe financiero',
+      significado:
+        'documento que organiza resultados, interpretación, conclusiones y recomendaciones para apoyar decisiones.',
+    },
+    {
+      termino: 'Interpretación financiera',
+      significado:
+        'proceso de analizar los resultados financieros para comprender sus causas, efectos e implicaciones.',
+    },
+    {
+      termino: 'Margen de contribución',
+      significado:
+        'valor que queda de las ventas después de descontar los costos variables.',
+    },
+    {
+      termino: 'Margen de seguridad',
+      significado:
+        'diferencia entre las ventas reales o esperadas y el punto de equilibrio.',
+    },
+    {
+      termino: 'Punto de equilibrio',
+      significado:
+        'nivel de ventas en el que la empresa cubre sus costos sin generar utilidad ni pérdida.',
+    },
+    {
+      termino: 'Riesgo financiero',
+      significado:
+        'posibilidad de que la empresa tenga dificultades por el uso de deuda, intereses u obligaciones financieras.',
+    },
+    {
+      termino: 'Riesgo operativo',
+      significado:
+        'posibilidad de que los resultados se afecten por cambios en ventas, costos fijos o margen de contribución.',
+    },
+    {
+      termino: 'Toma de decisiones',
+      significado:
+        'proceso de elegir acciones empresariales con base en resultados, análisis e interpretación financiera.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Buenaventura Vera, G. (2002). Universidad Icesi. Obtenido de El estudio de apalancamientos como metodología de análisis de la gestión en la empresa:',
+      link: 'file:///C:/Users/Usuario/Downloads/director_editorial,+Gestor_a+de+la+revista,+gbuenaventura-apalancamiento%20(2).pdf',
+    },
+    {
+      referencia:
+        'Esic. (Mayo de 2023). Grado de apalancamiento operativo: qué es, cómo se calcula y ejemplos. Obtenido de',
+      link: 'https://www.esic.edu/rethink/marketing-y-comunicacion/grado-de-apalancamiento-operativo-como-se-calcula-c?utm',
+    },
+    {
+      referencia:
+        'Gordillo Narvaez, G. &. (2019). dspace.uazuay.edu.ec. Obtenido de Universidad de Azuay:',
+      link: 'https://dspace.uazuay.edu.ec/bitstream/datos/9550/1/15183.pdf?utm',
+    },
+    {
+      referencia:
+        'Higuerey, G. A. (Octubre de 2006). Web del Profesor. Obtenido de',
+      link: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://webdelprofesor.ula.ve/nucleotrujillo/anahigo/guias_finanzas1_pdf/tema22.pdf?utm',
+    },
+    {
+      referencia:
+        'Lavalle, A. C. (s.f.). books.google.com.ec. Obtenido de Analisis Financiero:',
+      link: 'https://books.google.com.ec/books?id=RuE2DAAAQBAJ&printsec=frontcover&utm',
+    },
+    {
+      referencia:
+        'Martinez, H. R. (10 de marzo de 2008). Web Del Profesor. Obtenido de',
+      link: 'https://webdelprofesor.ula.ve/economia/mendezm/analisis%20I/IndicadoresFinancieros.pdf?utm',
+    },
+    {
+      referencia:
+        'Montiel Perez, A. (2016). Análisis financieros para una adecuada toma de decisiones.',
       link: '',
+    },
+    {
+      referencia:
+        'Nieto, D. (20 de Junio de 2022). Análisis e interpretación de los Estados Financieros y su incidencia en la toma de decisiones para una Pyme de. Obtenido de Dialnet:',
+      link: 'file:///C:/Users/Usuario/Downloads/Dialnet-AnalisisEInterpretacionDeLosEstadosFinancierosYSuI-8635251%20(2).pdf',
+    },
+    {
+      referencia:
+        'Office, M. (s.f.). support.microsoft.com. Obtenido de Calcular porcentajes:',
+      link: 'https://support.microsoft.com/es-es/office/calcular-porcentajes-6b5506e9-125a-4aba-a638-d6b40e603981?utm',
+    },
+    {
+      referencia: 'Proaño, B. (2023). Obtenido de Analisis Financiero:',
+      link: 'https://publicaciones.uazuay.edu.ec/flip/books/libro/uazuay-libro-303.pdf?utm',
+    },
+    {
+      referencia:
+        'Urrego, B. R. (2024). Centro Virtual. Obtenido de Apalancamiento Financiero.:',
+      link: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.centro-virtual.com/recursos/biblioteca/pdf/finanzas_corporativas/unidad1_pdf2.pdf?utm',
     },
   ],
   creditos: [
@@ -328,11 +449,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Olga Constanza Bermúdez',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
@@ -342,9 +464,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Joinner Enrique Osorio Martínez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -352,20 +481,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -375,13 +534,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
