@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Cuestionario de verificación sobre interpretación financiera para la toma de decisiones',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b>Objetivo:</b> Evaluar la comprensión e interpretación de los resultados financieros para relacionarlos con decisiones empresariales sobre liquidez, cartera, inventarios, endeudamiento, rentabilidad, punto de equilibrio, apalancamiento operativo, apalancamiento financiero y escenarios financieros.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
