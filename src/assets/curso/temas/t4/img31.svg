@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="97.998" viewBox="0 0 98 97.998">
+  <g id="Group_1278827" data-name="Group 1278827" transform="translate(-804 -1967)">
+    <g id="Group_1204285" data-name="Group 1204285" transform="translate(1.219)">
+      <g id="Group_1204180" data-name="Group 1204180" transform="translate(-1 -5.016)">
+        <g id="Group_1204143" data-name="Group 1204143" transform="translate(-67.331 1694.852)">
+          <g id="Group_1188789" data-name="Group 1188789" transform="translate(871.113 277.164)">
+            <path id="Path_1243039" data-name="Path 1243039" d="M41.05,0h0a41.05,41.05,0,0,1,0,82.1h0a41.05,41.05,0,0,1,0-82.1Z" transform="translate(7.951 7.949)" fill="#a9e2df"/>
+            <rect id="Rectangle_400907" data-name="Rectangle 400907" width="88.438" height="88.437" rx="44.218" transform="translate(4.782 4.781)" fill="none"/>
+            <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+              <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+                <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+                <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+              </g>
+              <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+                <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+                <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1278879" data-name="Group 1278879" transform="translate(-7291.141 11435.796)">
+      <path id="Path_1492039" data-name="Path 1492039" d="M655.928,220.431V189.705h52.425v30.817H655.928Z" transform="translate(7462 -9624.866)" fill="#ecf0f1" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <rect id="Rectangle_440351" data-name="Rectangle 440351" width="4.559" height="18.235" transform="translate(8149.839 -9422.67)" fill="#da5359" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <rect id="Rectangle_440352" data-name="Rectangle 440352" width="4.559" height="12.582" transform="translate(8133.883 -9416.927)" fill="#da5359" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <rect id="Rectangle_440353" data-name="Rectangle 440353" width="4.559" height="20.514" transform="translate(8157.771 -9424.948)" fill="#ef727a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <rect id="Rectangle_440354" data-name="Rectangle 440354" width="4.559" height="15.956" transform="translate(8141.816 -9420.392)" fill="#ef727a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <rect id="Rectangle_440355" data-name="Rectangle 440355" width="4.559" height="9.117" transform="translate(8125.86 -9413.553)" fill="#ef727a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1492040" data-name="Path 1492040" d="M695.334,195.819h0v-.456a1535.692,1535.692,0,0,0-.182-.182l-.091-.091L694.97,195l-3.465-2.279a1.113,1.113,0,1,0-1.276,1.823l1.55,1.094-27.535,10.394a1.109,1.109,0,0,0-.638,1.458,1.185,1.185,0,0,0,1.094.73.547.547,0,0,0,.364-.091l27.353-10.486-.366,1.094a1.122,1.122,0,0,0,.73,1.459c.091,0,.274.091.364.091a1.146,1.146,0,0,0,1.094-.821L695.426,196v-.091a.09.09,0,0,1-.092-.092" transform="translate(7461.251 -9625.145)" fill="#65b2fe" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1492041" data-name="Path 1492041" d="M660.865,199.908a1.207,1.207,0,0,0,1.185-1.185V189.6h-2.279v9.117a1.035,1.035,0,0,0,1.094,1.185" transform="translate(7461.622 -9624.856)" fill="#bec3c7" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+      <path id="Path_1492042" data-name="Path 1492042" d="M708.916,196.534a1.206,1.206,0,0,0,1.184-1.185V189.6h-2.278v5.744a1.076,1.076,0,0,0,1.094,1.185" transform="translate(7456.878 -9624.856)" fill="#bec3c7" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="80 5"/>
+    </g>
+  </g>
+</svg>
