@@ -460,7 +460,7 @@
       p.mb-5 Para mayor comprensión del tema, analice el siguiente video e identifique cómo el punto de equilibrio permite revisar ventas, costos, margen de seguridad y utilidad esperada.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/dYximjimiIk?si=vpJgpbV3QlQBwmGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Punto de equilibrio: cómo interpretar si la empresa cubre sus costos 
       Separador
       #t_2_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
