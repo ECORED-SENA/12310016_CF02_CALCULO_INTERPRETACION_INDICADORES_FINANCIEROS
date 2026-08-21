@@ -120,7 +120,7 @@
               h5 Ejemplo aplicado
               br
               br
-              p Una empresa presenta ventas actuales de $500.000.000, costos variables de $300.000.000 y gastos fijos de $120.000.000. Si se proyecta un aumento de ventas del 10 %, las ventas pasarían a $550.000.000. Sin embargo, si los costos variables también aumentan proporcionalmente, no toda la variación en ventas se convierte en utilidad.
+              p Una empresa presenta ventas actuales de $ 500.000.000, costos variables de $ 300.000.000 y gastos fijos de $ 120.000.000. Si se proyecta un aumento de ventas del 10 %, las ventas pasarían a $ 550.000.000. Sin embargo, si los costos variables también aumentan proporcionalmente, no toda la variación en ventas se convierte en utilidad.
               br
               br
               p.mb-0 La hoja electrónica permite proyectar la utilidad y orientar decisiones sobre ventas, costos, gastos y precios.
@@ -198,7 +198,7 @@
           h5 Ejemplo aplicado
           br
           br
-          p Una empresa vende un producto a $80.000, con costo variable de $50.000 y costos fijos de $18.000.000. Su margen de contribución unitario es de $30.000 y su punto de equilibrio es de 600 unidades. Si el costo variable sube a $55.000, el margen baja a $25.000 y el nuevo punto de equilibrio será de 720 unidades.
+          p Una empresa vende un producto a $ 80.000, con costo variable de $ 50.000 y costos fijos de $ 18.000.000. Su margen de contribución unitario es de $ 30.000 y su punto de equilibrio es de 600 unidades. Si el costo variable sube a $ 55.000, el margen baja a $ 25.000 y el nuevo punto de equilibrio será de 720 unidades.
           br
           br
           p.mb-0 El aumento del costo variable eleva las unidades necesarias para cubrir los costos fijos, por lo que la empresa debe revisar proveedores, precios, descuentos y eficiencia operativa.
@@ -260,7 +260,7 @@
           h5 Ejemplo aplicado
           br
           br
-          p Una empresa tiene ventas por $100.000.000, margen de contribución de $40.000.000, costos fijos de $25.000.000 y gastos financieros de $5.000.000. Si las ventas disminuyen 10 %, los costos variables también bajan, pero los costos fijos y gastos financieros permanecen.
+          p Una empresa tiene ventas por $ 100.000.000, margen de contribución de $ 40.000.000, costos fijos de $ 25.000.000 y gastos financieros de $ 5.000.000. Si las ventas disminuyen 10 %, los costos variables también bajan, pero los costos fijos y gastos financieros permanecen.
           br
           br
           p.mb-0 La simulación permite evaluar cómo los costos fijos y la deuda amplifican la disminución de las utilidades cuando caen las ventas.
@@ -394,19 +394,19 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Precio de venta unitario
-                    td.texto-left $80.000
+                    td.texto-left $ 80.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costo variable unitario
-                    td.texto-left $50.000
+                    td.texto-left $ 50.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Unidades vendidas
                     td.texto-left 1.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos
-                    td.texto-left $18.000.000
+                    td.texto-left $ 18.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Gastos financieros
-                    td.texto-left $2.000.000
+                    td.texto-left $ 2.000.000
         p.mb-5 La siguiente tabla presenta los resultados actuales de la empresa antes de aplicar cambios.
         .row.justify-content-center.mb-5
           .col-xl-8
@@ -424,27 +424,27 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Ventas
-                    td.ajuste-border-tabla.texto-left 1.000 × $80.000
-                    td.texto-left $80.000.000
+                    td.ajuste-border-tabla.texto-left 1.000 × $ 80.000
+                    td.texto-left $ 80.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos variables
-                    td.ajuste-border-tabla.texto-left 1.000 × $50.000
-                    td.texto-left $50.000.000
+                    td.ajuste-border-tabla.texto-left 1.000 × $ 50.000
+                    td.texto-left $ 50.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución
-                    td.ajuste-border-tabla.texto-left $80.000.000 - $50.000.000
-                    td.texto-left $30.000.000
+                    td.ajuste-border-tabla.texto-left $ 80.000.000 - $ 50.000.000
+                    td.texto-left $ 30.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
-                    td.ajuste-border-tabla.texto-left $30.000.000 - $18.000.000
-                    td.texto-left $12.000.000
+                    td.ajuste-border-tabla.texto-left $ 30.000.000 - $ 18.000.000
+                    td.texto-left $ 12.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad antes de impuestos
-                    td.ajuste-border-tabla.texto-left $12.000.000 - $2.000.000
-                    td.texto-left $10.000.000
+                    td.ajuste-border-tabla.texto-left $ 12.000.000 - $ 2.000.000
+                    td.texto-left $ 10.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio
-                    td.ajuste-border-tabla.texto-left $18.000.000 / $30.000
+                    td.ajuste-border-tabla.texto-left $ 18.000.000 / $ 30.000
                     td.texto-left 600 unidades
         p.mb-5 A continuación, se presenta el efecto de una reducción del 10 % en unidades vendidas, manteniendo costos fijos y gastos financieros.
         .row.justify-content-center.mb-5
@@ -467,27 +467,27 @@
                     td.texto-left 900 unidades
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Ventas
-                    td.ajuste-border-tabla.texto-left 900 × $80.000
-                    td.texto-left $72.000.000
+                    td.ajuste-border-tabla.texto-left 900 × $ 80.000
+                    td.texto-left $ 72.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos variables
-                    td.ajuste-border-tabla.texto-left 900 × $50.000
-                    td.texto-left $45.000.000
+                    td.ajuste-border-tabla.texto-left 900 × $ 50.000
+                    td.texto-left $ 45.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución
-                    td.ajuste-border-tabla.texto-left $72.000.000 - $45.000.000
-                    td.texto-left $27.000.000
+                    td.ajuste-border-tabla.texto-left $ 72.000.000 - $ 45.000.000
+                    td.texto-left $ 27.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
-                    td.ajuste-border-tabla.texto-left $27.000.000 - $18.000.000
-                    td.texto-left $9.000.000
+                    td.ajuste-border-tabla.texto-left $ 27.000.000 - $ 18.000.000
+                    td.texto-left $ 9.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad antes de impuestos
-                    td.ajuste-border-tabla.texto-left $9.000.000 - $2.000.000
-                    td.texto-left $7.000.000
+                    td.ajuste-border-tabla.texto-left $ 9.000.000 - $ 2.000.000
+                    td.texto-left $ 7.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio
-                    td.ajuste-border-tabla.texto-left $18.000.000 / $30.000
+                    td.ajuste-border-tabla.texto-left $ 18.000.000 / $ 30.000
                     td.texto-left 600 unidades
         .caja-6(data-aos="zoom-in")
           p La interpretación del caso es la siguiente:

@@ -57,7 +57,7 @@
               p El siguiente ejemplo explica el tema desarrollado:
               .caja-3(data-aos="fade-right")
                 h5 Ejemplo aplicado
-                p Una empresa vende un producto a $50.000 y tiene un costo variable unitario de $30.000. Cada unidad vendida deja un margen de contribución de $20.000. Si sus costos fijos mensuales son de $10.000.000, la empresa necesita vender suficientes unidades para cubrir esa estructura fija antes de generar utilidad.
+                p Una empresa vende un producto a $ 50.000 y tiene un costo variable unitario de $ 30.000. Cada unidad vendida deja un margen de contribución de $ 20.000. Si sus costos fijos mensuales son de $ 10.000.000, la empresa necesita vender suficientes unidades para cubrir esa estructura fija antes de generar utilidad.
                 p.mb-0 Este ejemplo reconoce que vender no implica ganar de inmediato: primero se cubren costos variables y fijos; solo al superar ese nivel se genera utilidad operacional.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
@@ -83,7 +83,7 @@
           p Este ejemplo permite diferenciar los tipos de costos antes de calcular el punto de equilibrio.
           .caja-3(data-aos="fade-right")
             h5 Ejemplo aplicado
-            p Una empresa paga $3.000.000 mensuales de arriendo, valor que se mantiene aunque venda pocas o muchas unidades. Este valor se clasifica como costo fijo. Además, por cada unidad vendida paga $25.000 por mercancía, valor que cambia según el volumen vendido; este corresponde a costo variable.
+            p Una empresa paga $ 3.000.000 mensuales de arriendo, valor que se mantiene aunque venda pocas o muchas unidades. Este valor se clasifica como costo fijo. Además, por cada unidad vendida paga $ 25.000 por mercancía, valor que cambia según el volumen vendido; este corresponde a costo variable.
             p.mb-0 Si el transporte tiene una tarifa base más un valor por unidad despachada, se clasifica como costo mixto; por ello, debe separarse en componente fijo y variable.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
@@ -152,20 +152,20 @@
               tbody
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Precio de venta unitario
-                  td.texto-left $80.000
+                  td.texto-left $ 80.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costo variable unitario
-                  td.texto-left $50.000
+                  td.texto-left $ 50.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución unitario
-                  td.texto-left $30.000
+                  td.texto-left $ 30.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución porcentual
                   td.texto-left 37,5 %
       .row.justify-content-center.mb-0
         .col-xl-10
           .caja-5(data-aos="zoom-in")
-            p.mb-0 #[b Interpretación:] cada unidad vendida aporta $30.000 para cubrir costos fijos y generar utilidad. El margen de contribución porcentual de 37,5 % significa que por cada $100 vendidos, la empresa conserva $37,5 después de cubrir el costo variable. Si este margen disminuye, la empresa necesitará vender más unidades para alcanzar el punto de equilibrio.
+            p.mb-0 #[b Interpretación:] cada unidad vendida aporta $ 30.000 para cubrir costos fijos y generar utilidad. El margen de contribución porcentual de 37,5 % significa que por cada $ 100 vendidos, la empresa conserva $ 37,5 después de cubrir el costo variable. Si este margen disminuye, la empresa necesitará vender más unidades para alcanzar el punto de equilibrio.
       Separador
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.4 Punto de equilibrio en unidades
@@ -222,10 +222,10 @@
               tbody
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos mensuales
-                  td.texto-left $18.000.000
+                  td.texto-left $ 18.000.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución unitario
-                  td.texto-left $30.000
+                  td.texto-left $ 30.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio en unidades
                   td.texto-left 600 unidades
@@ -298,17 +298,17 @@
               tbody
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos mensuales
-                  td.texto-left $18.000.000
+                  td.texto-left $ 18.000.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución porcentual
                   td.texto-left 37,5 %
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio en ventas
-                  td.texto-left $48.000.000
+                  td.texto-left $ 48.000.000
       .row.justify-content-center.mb-0
         .col-xl-10
           .caja-5(data-aos="zoom-in")
-            p.mb-0 #[b Interpretación:] la empresa necesita vender $48.000.000 mensuales para cubrir sus costos totales. Este resultado coincide con el cálculo en unidades, porque 600 unidades multiplicadas por el precio de venta de $80.000 equivalen a $48.000.000.
+            p.mb-0 #[b Interpretación:] la empresa necesita vender $ 48.000.000 mensuales para cubrir sus costos totales. Este resultado coincide con el cálculo en unidades, porque 600 unidades multiplicadas por el precio de venta de $ 80.000 equivalen a $ 48.000.000.
       Separador
       #t_2_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.6 Punto de equilibrio con utilidad esperada
@@ -384,24 +384,24 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos mensuales
-                    td.texto-left $18.000.000
+                    td.texto-left $ 18.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad esperada
-                    td.texto-left $9.000.000
+                    td.texto-left $ 9.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución unitario
-                    td.texto-left $30.000
+                    td.texto-left $ 30.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Unidades requeridas
                     td.texto-left 900 unidades
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Precio de venta unitario
-                    td.texto-left $80.000
+                    td.texto-left $ 80.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Ventas requeridas
-                    td.texto-left $72.000.000
+                    td.texto-left $ 72.000.000
         .caja-6(data-aos="zoom-in")
-          p.mb-0 #[b Interpretación:] la empresa debe vender 900 unidades, equivalentes a $72.000.000, para cubrir sus costos y obtener una utilidad operacional de $9.000.000. Este cálculo es útil para establecer metas comerciales, porque no se limita a evitar pérdidas, sino que incorpora la ganancia esperada.
+          p.mb-0 #[b Interpretación:] la empresa debe vender 900 unidades, equivalentes a $ 72.000.000, para cubrir sus costos y obtener una utilidad operacional de $ 9.000.000. Este cálculo es útil para establecer metas comerciales, porque no se limita a evitar pérdidas, sino que incorpora la ganancia esperada.
       Separador
       #t_2_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.7 Interpretación del punto de equilibrio
@@ -506,7 +506,7 @@
       p.mb-5 El siguiente ejemplo integra los conocimientos abordados:
       .caja-5.mb-5(data-aos="zoom-in")
         h5 Ejemplo aplicado
-        p La empresa Comercial La Esperanza S.A.S. vende un producto a $80.000 por unidad. Su costo variable unitario es de $50.000, sus costos fijos mensuales son de $18.000.000 y la gerencia desea obtener una utilidad operacional de $9.000.000. Los datos realizar los cálculos son:
+        p La empresa Comercial La Esperanza S.A.S. vende un producto a $ 80.000 por unidad. Su costo variable unitario es de $ 50.000, sus costos fijos mensuales son de $ 18.000.000 y la gerencia desea obtener una utilidad operacional de $ 9.000.000. Los datos para realizar los cálculos son:
         .row.justify-content-center.mb-5
           .col-xl-7
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -522,16 +522,16 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Precio de venta unitario
-                    td.texto-left $80.000
+                    td.texto-left $ 80.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costo variable unitario
-                    td.texto-left $50.000
+                    td.texto-left $ 50.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos mensuales
-                    td.texto-left $18.000.000
+                    td.texto-left $ 18.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad esperada
-                    td.texto-left $9.000.000
+                    td.texto-left $ 9.000.000
         p.mb-5 La siguiente tabla presenta el cálculo del margen de contribución, punto de equilibrio y ventas con utilidad esperada:
         .row.justify-content-center.mb-5
           .col-xl-10
@@ -549,31 +549,31 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución unitario
-                    td.ajuste-border-tabla.texto-left $80.000 - $50.000
-                    td.texto-left $30.000
+                    td.ajuste-border-tabla.texto-left $ 80.000 - $ 50.000
+                    td.texto-left $ 30.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución porcentual
-                    td.ajuste-border-tabla.texto-left $30.000 / $80.000 × 100
+                    td.ajuste-border-tabla.texto-left $ 30.000 / $ 80.000 × 100
                     td.texto-left 37,5 %
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio en unidades
-                    td.ajuste-border-tabla.texto-left $18.000.000 / $30.000
+                    td.ajuste-border-tabla.texto-left $ 18.000.000 / $ 30.000
                     td.texto-left 600 unidades
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio en ventas
-                    td.ajuste-border-tabla.texto-left $18.000.000 / 37,5 %
-                    td.texto-left $48.000.000
+                    td.ajuste-border-tabla.texto-left $ 18.000.000 / 37,5 %
+                    td.texto-left $ 48.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Unidades con utilidad esperada
-                    td.ajuste-border-tabla.texto-left ($18.000.000 + $9.000.000) / $30.000
+                    td.ajuste-border-tabla.texto-left ($ 18.000.000 + $ 9.000.000) / $ 30.000
                     td.texto-left 900 unidades
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Ventas con utilidad esperada
-                    td.ajuste-border-tabla.texto-left 900 × $80.000
-                    td.texto-left $72.000.000
+                    td.ajuste-border-tabla.texto-left 900 × $ 80.000
+                    td.texto-left $ 72.000.000
         .caja-6(data-aos="zoom-in")
-          p #[b Interpretación del caso:] Comercial La Esperanza S.A.S. debe vender #[b 600 unidades mensuales], equivalentes a #[b $48.000.000], para cubrir sus costos y no generar pérdida. Si vende menos, no cubre su estructura; si vende más, empieza a generar utilidad operacional.
-          p.mb-0 Para alcanzar una utilidad esperada de #[b $9.000.000], debe vender #[b 900 unidades], equivalentes a #[b $72.000.000]. Si proyecta vender #[b 750 unidades], supera el punto de equilibrio, pero no alcanza la utilidad esperada; por ello, debe revisar ventas, margen de contribución, costos o gastos fijos.
+          p #[b Interpretación del caso:] Comercial La Esperanza S.A.S. debe vender #[b 600 unidades mensuales], equivalentes a #[b $ 48.000.000], para cubrir sus costos y no generar pérdida. Si vende menos, no cubre su estructura; si vende más, empieza a generar utilidad operacional.
+          p.mb-0 Para alcanzar una utilidad esperada de #[b $ 9.000.000], debe vender #[b 900 unidades], equivalentes a #[b $ 72.000.000]. Si proyecta vender #[b 750 unidades], supera el punto de equilibrio, pero no alcanza la utilidad esperada; por ello, debe revisar ventas, margen de contribución, costos o gastos fijos.
       p.mb-0 El punto de equilibrio relaciona precios, costos, ventas y utilidad para evaluar si las metas comerciales permiten cubrir la operación y alcanzar el resultado esperado.
 
 </template>

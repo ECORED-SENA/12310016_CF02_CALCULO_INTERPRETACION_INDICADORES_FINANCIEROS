@@ -34,35 +34,35 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Identificación de la empresa
-                      td.ajuste-border-tabla.texto-left Nombre, actividad económica y periodo analizado
+                      td.ajuste-border-tabla.texto-left Nombre, actividad económica y periodo analizado.
                       td.texto-left ¿A quién corresponde el análisis?
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Información utilizada
-                      td.ajuste-border-tabla.texto-left Estados financieros, indicadores y datos complementarios
+                      td.ajuste-border-tabla.texto-left Estados financieros, indicadores y datos complementarios.
                       td.texto-left ¿Con qué información se trabajó?
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Técnicas aplicadas
-                      td.ajuste-border-tabla.texto-left Análisis vertical, horizontal, indicadores, punto de equilibrio y apalancamiento
+                      td.ajuste-border-tabla.texto-left Análisis vertical, horizontal, indicadores, punto de equilibrio y apalancamiento.
                       td.texto-left ¿Qué herramientas se utilizaron?
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Resultados financieros
-                      td.ajuste-border-tabla.texto-left Cálculos principales y escenarios relevantes
+                      td.ajuste-border-tabla.texto-left Cálculos principales y escenarios relevantes.
                       td.texto-left ¿Qué resultados se obtuvieron?
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Interpretación
-                      td.ajuste-border-tabla.texto-left Lectura de los resultados y sus implicaciones
+                      td.ajuste-border-tabla.texto-left Lectura de los resultados y sus implicaciones.
                       td.texto-left ¿Qué significan los resultados?
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Diagnóstico
-                      td.ajuste-border-tabla.texto-left Fortalezas, alertas y riesgos financieros
+                      td.ajuste-border-tabla.texto-left Fortalezas, alertas y riesgos financieros.
                       td.texto-left ¿Cuál es la situación financiera?
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recomendaciones
-                      td.ajuste-border-tabla.texto-left Acciones de mejora, correctivas y preventivas
+                      td.ajuste-border-tabla.texto-left Acciones de mejora, correctivas y preventivas.
                       td.texto-left ¿Qué decisiones pueden tomarse?
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Conclusión
-                      td.ajuste-border-tabla.texto-left Síntesis del análisis y orientación final
+                      td.ajuste-border-tabla.texto-left Síntesis del análisis y orientación final.
                       td.texto-left ¿Cuál es el mensaje principal del informe?
           .row.justify-content-center.align-items-center.mb-0
             .col-xl.mb-4.mb-lg-0
@@ -185,36 +185,36 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Prueba ácida menor que 1
-                      td.ajuste-border-tabla.texto-left Liquidez dependiente de inventarios o cartera
-                      td.texto-left Calidad del activo corriente
+                      td.ajuste-border-tabla.texto-left Liquidez dependiente de inventarios o cartera.
+                      td.texto-left Calidad del activo corriente.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Días de cartera altos
-                      td.ajuste-border-tabla.texto-left Demora en recuperación de ventas a crédito
-                      td.texto-left Política de crédito y gestión de cobro
+                      td.ajuste-border-tabla.texto-left Demora en recuperación de ventas a crédito.
+                      td.texto-left Política de crédito y gestión de cobro.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Inventarios con baja rotación
-                      td.ajuste-border-tabla.texto-left Recursos inmovilizados en mercancía
-                      td.texto-left Compras, ventas y productos de baja salida
+                      td.ajuste-border-tabla.texto-left Recursos inmovilizados en mercancía.
+                      td.texto-left Compras, ventas y productos de baja salida.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Endeudamiento creciente
-                      td.ajuste-border-tabla.texto-left Mayor dependencia de financiación externa
-                      td.texto-left Plazos, tasas y capacidad de pago
+                      td.ajuste-border-tabla.texto-left Mayor dependencia de financiación externa.
+                      td.texto-left Plazos, tasas y capacidad de pago.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Cobertura de intereses baja
-                      td.ajuste-border-tabla.texto-left Presión de gastos financieros
-                      td.texto-left Utilidad operacional y deuda
+                      td.ajuste-border-tabla.texto-left Presión de gastos financieros.
+                      td.texto-left Utilidad operacional y deuda.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Margen neto bajo
-                      td.ajuste-border-tabla.texto-left Baja utilidad final sobre ventas
-                      td.texto-left Costos, gastos, descuentos e intereses
+                      td.ajuste-border-tabla.texto-left Baja utilidad final sobre ventas.
+                      td.texto-left Costos, gastos, descuentos e intereses.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio cercano a ventas reales
-                      td.ajuste-border-tabla.texto-left Bajo margen de seguridad
-                      td.texto-left Volumen de ventas y costos fijos
+                      td.ajuste-border-tabla.texto-left Bajo margen de seguridad.
+                      td.texto-left Volumen de ventas y costos fijos.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Apalancamiento total alto
-                      td.ajuste-border-tabla.texto-left Alta sensibilidad del resultado
-                      td.texto-left Escenarios de ventas y estructura financiera
+                      td.ajuste-border-tabla.texto-left Alta sensibilidad del resultado.
+                      td.texto-left Escenarios de ventas y estructura financiera.
           p.mb-5 Este ejemplo convierte los resultados financieros en un diagnóstico inicial para orientar decisiones.
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in")
             .bloque-texto-g__img(
@@ -247,28 +247,28 @@
               tbody
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Basarse en resultados
-                  td.ajuste-border-tabla.texto-left Usar cifras calculadas
-                  td.texto-left La prueba ácida de 0,78 evidencia baja liquidez inmediata
+                  td.ajuste-border-tabla.texto-left Usar cifras calculadas.
+                  td.texto-left La prueba ácida de 0,78 evidencia baja liquidez inmediata.
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Relacionar indicadores
-                  td.ajuste-border-tabla.texto-left No interpretar datos aislados
-                  td.texto-left Cartera lenta y pasivo corriente alto presionan el flujo de caja
+                  td.ajuste-border-tabla.texto-left No interpretar datos aislados.
+                  td.texto-left Cartera lenta y pasivo corriente alto presionan el flujo de caja.
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Explicar el efecto
-                  td.ajuste-border-tabla.texto-left Señalar implicaciones financieras
-                  td.texto-left La baja rotación de inventarios inmoviliza recursos
+                  td.ajuste-border-tabla.texto-left Señalar implicaciones financieras.
+                  td.texto-left La baja rotación de inventarios inmoviliza recursos.
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Priorizar hallazgos
-                  td.ajuste-border-tabla.texto-left Destacar lo más relevante
-                  td.texto-left El endeudamiento creciente exige revisar capacidad de pago
+                  td.ajuste-border-tabla.texto-left Destacar lo más relevante.
+                  td.texto-left El endeudamiento creciente exige revisar capacidad de pago.
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Evitar generalidades
-                  td.ajuste-border-tabla.texto-left Redactar con precisión
-                  td.texto-left El margen neto bajó por aumento de costos y gastos
+                  td.ajuste-border-tabla.texto-left Redactar con precisión.
+                  td.texto-left El margen neto bajó por aumento de costos y gastos.
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Conectar con decisiones
-                  td.ajuste-border-tabla.texto-left Preparar recomendaciones
-                  td.texto-left Se requiere fortalecer recaudo y controlar gastos
+                  td.ajuste-border-tabla.texto-left Preparar recomendaciones.
+                  td.texto-left Se requiere fortalecer recaudo y controlar gastos.
       .row.justify-content-center.align-items-center.mb-0
         .col-xl.mb-4.mb-lg-0
           p El siguiente ejemplo relaciona una conclusión financiera con resultados concretos:
@@ -511,44 +511,44 @@
             tbody
               tr
                 td.ajuste-border-tabla.texto-left.text-weight-bold Liquidez
-                td.ajuste-border-tabla.texto-left Prueba ácida de 0,82
-                td.ajuste-border-tabla.texto-left La empresa depende de inventarios y cartera para cubrir obligaciones próximas
-                td.texto-left Fortalecer recaudo y revisar rotación de inventarios
+                td.ajuste-border-tabla.texto-left Prueba ácida de 0,82.
+                td.ajuste-border-tabla.texto-left La empresa depende de inventarios y cartera para cubrir obligaciones próximas.
+                td.texto-left Fortalecer recaudo y revisar rotación de inventarios.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left.text-weight-bold Actividad
-                td.ajuste-border-tabla.texto-left Cartera de 78 días
-                td.ajuste-border-tabla.texto-left El recaudo puede estar tardando más de lo conveniente
-                td.texto-left Revisar política de crédito y cartera vencida
+                td.ajuste-border-tabla.texto-left Cartera de 78 días.
+                td.ajuste-border-tabla.texto-left El recaudo puede estar tardando más de lo conveniente.
+                td.texto-left Revisar política de crédito y cartera vencida.
               tr
                 td.ajuste-border-tabla.texto-left.text-weight-bold Actividad
-                td.ajuste-border-tabla.texto-left Inventarios de 92 días
-                td.ajuste-border-tabla.texto-left Hay recursos inmovilizados en mercancía
-                td.texto-left Ajustar compras y depurar productos de baja salida
+                td.ajuste-border-tabla.texto-left Inventarios de 92 días.
+                td.ajuste-border-tabla.texto-left Hay recursos inmovilizados en mercancía.
+                td.texto-left Ajustar compras y depurar productos de baja salida.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left.text-weight-bold Endeudamiento
-                td.ajuste-border-tabla.texto-left Nivel de 63 %
-                td.ajuste-border-tabla.texto-left Existe alta dependencia de financiación externa
-                td.texto-left Revisar nuevas deudas, tasas y plazos
+                td.ajuste-border-tabla.texto-left Nivel de 63 %.
+                td.ajuste-border-tabla.texto-left Existe alta dependencia de financiación externa.
+                td.texto-left Revisar nuevas deudas, tasas y plazos.
               tr
                 td.ajuste-border-tabla.texto-left.text-weight-bold Cobertura de intereses
-                td.ajuste-border-tabla.texto-left 2,1 veces
-                td.ajuste-border-tabla.texto-left La utilidad operacional cubre intereses, pero con margen limitado
-                td.texto-left Controlar gastos financieros y mejorar utilidad operacional
+                td.ajuste-border-tabla.texto-left 2,1 veces.
+                td.ajuste-border-tabla.texto-left La utilidad operacional cubre intereses, pero con margen limitado.
+                td.texto-left Controlar gastos financieros y mejorar utilidad operacional.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left.text-weight-bold Rentabilidad
-                td.ajuste-border-tabla.texto-left Margen neto de 4,5 %
-                td.ajuste-border-tabla.texto-left La utilidad final sobre ventas es reducida
-                td.texto-left Revisar costos, gastos, precios y descuentos
+                td.ajuste-border-tabla.texto-left Margen neto de 4,5 %.
+                td.ajuste-border-tabla.texto-left La utilidad final sobre ventas es reducida.
+                td.texto-left Revisar costos, gastos, precios y descuentos.
               tr
                 td.ajuste-border-tabla.texto-left.text-weight-bold Punto de equilibrio
-                td.ajuste-border-tabla.texto-left 850 unidades frente a 1.000 vendidas
-                td.ajuste-border-tabla.texto-left La empresa supera el equilibrio, pero no tiene un margen amplio
-                td.texto-left Aumentar ventas o reducir costos fijos
+                td.ajuste-border-tabla.texto-left 850 unidades frente a 1.000 vendidas.
+                td.ajuste-border-tabla.texto-left La empresa supera el equilibrio, pero no tiene un margen amplio.
+                td.texto-left Aumentar ventas o reducir costos fijos.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left.text-weight-bold Apalancamiento total
-                td.ajuste-border-tabla.texto-left 3,78
-                td.ajuste-border-tabla.texto-left Una caída en ventas puede afectar fuertemente la utilidad
-                td.texto-left Simular escenarios y evitar nuevos costos fijos sin análisis
+                td.ajuste-border-tabla.texto-left 3,78.
+                td.ajuste-border-tabla.texto-left Una caída en ventas puede afectar fuertemente la utilidad.
+                td.texto-left Simular escenarios y evitar nuevos costos fijos sin análisis.
         p.mb-5 La interpretación del caso es la siguiente:
         .caja-6(data-aos="zoom-in").mb-5
           h5 Interpretación del caso: 
