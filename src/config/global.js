@@ -390,57 +390,58 @@ export default {
   referencias: [
     {
       referencia:
-        'Buenaventura Vera, G. (2002). Universidad Icesi. Obtenido de El estudio de apalancamientos como metodología de análisis de la gestión en la empresa:',
-      link: 'file:///C:/Users/Usuario/Downloads/director_editorial,+Gestor_a+de+la+revista,+gbuenaventura-apalancamiento%20(2).pdf',
+        'Buenaventura Vera, G. (2002). El estudio de apalancamientos como metodología de análisis de la gestión en la empresa. Estudios Generales, (82), 65-92.',
+      link: 'https://www.icesi.edu.co/revistas/index.php/estudios_gerenciales/es/article/view/74/html',
     },
     {
       referencia:
-        'Esic. (Mayo de 2023). Grado de apalancamiento operativo: qué es, cómo se calcula y ejemplos. Obtenido de',
-      link: 'https://www.esic.edu/rethink/marketing-y-comunicacion/grado-de-apalancamiento-operativo-como-se-calcula-c?utm',
+        'ESIC Business & Marketing School. (2023, mayo). Grado de apalancamiento operativo: qué es, cómo se calcula y ejemplos.',
+      link: 'https://www.esic.edu/rethink/marketing-y-comunicacion/grado-de-apalancamiento-operativo-como-se-calcula-c',
     },
     {
       referencia:
-        'Gordillo Narvaez, G. &. (2019). dspace.uazuay.edu.ec. Obtenido de Universidad de Azuay:',
-      link: 'https://dspace.uazuay.edu.ec/bitstream/datos/9550/1/15183.pdf?utm',
+        'Gordillo Narváez, G. N., & Ramón Erraez, Y. T. (2019). Análisis de la rentabilidad y endeudamiento de las sociedades del sector de la fabricación de muebles del Ecuador, 2013-2017 [Trabajo de titulación, Universidad del Azuay]. Repositorio Institucional de la Universidad del Azuay.',
+      link: 'https://dspace.uazuay.edu.ec/bitstream/datos/9550/1/15183.pdf',
     },
     {
       referencia:
-        'Higuerey, G. A. (Octubre de 2006). Web del Profesor. Obtenido de',
-      link: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://webdelprofesor.ula.ve/nucleotrujillo/anahigo/guias_finanzas1_pdf/tema22.pdf?utm',
+        'Higuerey Gómez, A. (2006). Apalancamiento. Universidad de Los Andes.',
+      link: 'https://webdelprofesor.ula.ve/nucleotrujillo/anahigo/guias_finanzas1_pdf/tema22.pdf',
     },
     {
       referencia:
-        'Lavalle, A. C. (s.f.). books.google.com.ec. Obtenido de Analisis Financiero:',
-      link: 'https://books.google.com.ec/books?id=RuE2DAAAQBAJ&printsec=frontcover&utm',
+        'Lavalle Burguete, A. C. (2016). Análisis financiero. Editorial Digital UNID.',
+      link: 'https://books.google.com.ec/books?id=RuE2DAAAQBAJ',
     },
     {
       referencia:
-        'Martinez, H. R. (10 de marzo de 2008). Web Del Profesor. Obtenido de',
-      link: 'https://webdelprofesor.ula.ve/economia/mendezm/analisis%20I/IndicadoresFinancieros.pdf?utm',
+        'Martínez Rueda, H. (s. f.). Indicadores financieros y su interpretación. Universidad de Los Andes.',
+      link: 'https://webdelprofesor.ula.ve/economia/mendezm/analisis%20I/IndicadoresFinancieros.pdf',
     },
     {
       referencia:
-        'Montiel Perez, A. (2016). Análisis financieros para una adecuada toma de decisiones.',
-      link: '',
+        'Microsoft. (s. f.). Calcular porcentajes. Microsoft Support.',
+      link: 'https://support.microsoft.com/es-ES/Excel/calculate-percentages',
     },
     {
       referencia:
-        'Nieto, D. (20 de Junio de 2022). Análisis e interpretación de los Estados Financieros y su incidencia en la toma de decisiones para una Pyme de. Obtenido de Dialnet:',
-      link: 'file:///C:/Users/Usuario/Downloads/Dialnet-AnalisisEInterpretacionDeLosEstadosFinancierosYSuI-8635251%20(2).pdf',
+        'Montiel Pérez, A. (2016). Análisis financieros para una adecuada toma de decisiones [Monografía de licenciatura, Universidad Veracruzana].',
+      link: 'https://www.uv.mx/personal/cbustamante/files/2011/06/An%C3%A1isis-Financiero-para-una-adecuada-toma-de-decisiones.pdf',
     },
     {
       referencia:
-        'Office, M. (s.f.). support.microsoft.com. Obtenido de Calcular porcentajes:',
-      link: 'https://support.microsoft.com/es-es/office/calcular-porcentajes-6b5506e9-125a-4aba-a638-d6b40e603981?utm',
-    },
-    {
-      referencia: 'Proaño, B. (2023). Obtenido de Analisis Financiero:',
-      link: 'https://publicaciones.uazuay.edu.ec/flip/books/libro/uazuay-libro-303.pdf?utm',
+        'Nieto, Dorado, W. F., & Cuchiparte Tisalema, J. P. (2022). Análisis e interpretación de los estados financieros y su incidencia en la toma de decisiones para una Pyme de servicios durante los periodos 2020 y 2021. Dominio de las Ciencias, 8(3), 1062 – 1085.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=8635251',
     },
     {
       referencia:
-        'Urrego, B. R. (2024). Centro Virtual. Obtenido de Apalancamiento Financiero.:',
-      link: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.centro-virtual.com/recursos/biblioteca/pdf/finanzas_corporativas/unidad1_pdf2.pdf?utm',
+        'Proaño, B. (2023). Análisis financiero. Universidad del Azuay, Casa Editora.',
+      link: 'https://publicaciones.uazuay.edu.ec/flip/books/libro/uazuay-libro-303.pdf',
+    },
+    {
+      referencia:
+        'Urrego Berrio, R. A. (2024). Apalancamiento financiero. Corporación Universitaria de Asturias.',
+      link: 'https://www.centro-virtual.com/recursos/biblioteca/pdf/finanzas_corporativas/unidad1_pdf2.pdf',
     },
   ],
   creditos: [

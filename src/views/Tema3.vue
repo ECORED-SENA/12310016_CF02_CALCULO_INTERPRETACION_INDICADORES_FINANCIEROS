@@ -85,7 +85,7 @@
               p El siguiente caso relaciona el riesgo operativo con la cercanía de las ventas al punto de equilibrio:
               .caja-3(data-aos="fade-right")
                 h5 Ejemplo aplicado
-                p Una empresa tiene costos fijos mensuales de $ 30.000.000 y margen de contribución unitario de $ 50.000. Esto significa que necesita vender al menos 600 unidades para cubrir sus costos fijos. Si sus ventas normales son de 650 unidades, su margen de seguridad es reducido y cualquier disminución en ventas puede afectar la utilidad.
+                p Una empresa tiene costos fijos mensuales de $30.000.000 y margen de contribución unitario de $50.000. Esto significa que necesita vender al menos 600 unidades para cubrir sus costos fijos. Si sus ventas normales son de 650 unidades, su margen de seguridad es reducido y cualquier disminución en ventas puede afectar la utilidad.
                 p.mb-0 Al vender 1.200 unidades, la empresa supera con mayor amplitud el punto de equilibrio y las unidades adicionales contribuyen directamente a la utilidad operacional.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
@@ -164,26 +164,26 @@
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Ventas
                   td.ajuste-border-tabla.texto-left Dato suministrado
-                  td.texto-left $ 120.000.000
+                  td.texto-left $120.000.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos variables
                   td.ajuste-border-tabla.texto-left Dato suministrado
-                  td.texto-left $ 72.000.000
+                  td.texto-left $72.000.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución
-                  td.ajuste-border-tabla.texto-left $ 120.000.000 - $ 72.000.000
-                  td.texto-left $ 48.000.000
+                  td.ajuste-border-tabla.texto-left $120.000.000 - $72.000.000
+                  td.texto-left $48.000.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos
                   td.ajuste-border-tabla.texto-left Dato suministrado
-                  td.texto-left $ 28.000.000
+                  td.texto-left $28.000.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
-                  td.ajuste-border-tabla.texto-left $ 48.000.000 - $ 28.000.000
-                  td.texto-left $ 20.000.000
+                  td.ajuste-border-tabla.texto-left $48.000.000 - $28.000.000
+                  td.texto-left $20.000.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Grado de apalancamiento operativo
-                  td.ajuste-border-tabla.texto-left $ 48.000.000 / $ 20.000.000
+                  td.ajuste-border-tabla.texto-left $48.000.000 / $20.000.000
                   td.texto-left 2,40
       p.mb-5 Esto se puede interpretar así:
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in")
@@ -259,28 +259,28 @@
               tbody
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Ventas
-                  td.ajuste-border-tabla.texto-left $ 120.000.000
-                  td.ajuste-border-tabla.texto-left $ 132.000.000
+                  td.ajuste-border-tabla.texto-left $120.000.000
+                  td.ajuste-border-tabla.texto-left $132.000.000
                   td.texto-left 10,0 %
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos variables
-                  td.ajuste-border-tabla.texto-left $ 72.000.000
-                  td.ajuste-border-tabla.texto-left $ 79.200.000
+                  td.ajuste-border-tabla.texto-left $72.000.000
+                  td.ajuste-border-tabla.texto-left $79.200.000
                   td.texto-left 10,0 %
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución
-                  td.ajuste-border-tabla.texto-left $ 48.000.000
-                  td.ajuste-border-tabla.texto-left $ 52.800.000
+                  td.ajuste-border-tabla.texto-left $48.000.000
+                  td.ajuste-border-tabla.texto-left $52.800.000
                   td.texto-left 10,0 %
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos
-                  td.ajuste-border-tabla.texto-left $ 28.000.000
-                  td.ajuste-border-tabla.texto-left $ 28.000.000
+                  td.ajuste-border-tabla.texto-left $28.000.000
+                  td.ajuste-border-tabla.texto-left $28.000.000
                   td.texto-left 0,0 %
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
-                  td.ajuste-border-tabla.texto-left $ 20.000.000
-                  td.ajuste-border-tabla.texto-left $ 24.800.000
+                  td.ajuste-border-tabla.texto-left $20.000.000
+                  td.ajuste-border-tabla.texto-left $24.800.000
                   td.texto-left 24,0 %
       .row.justify-content-center.align-items-center.mb-0
         .col-xl.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -341,7 +341,7 @@
               p Este caso relaciona la deuda con la utilidad operacional y la capacidad de pago.
               .caja-3(data-aos="fade-right")
                 h5 Ejemplo aplicado
-                p Una empresa tiene utilidad operacional de $ 40.000.000 y gastos financieros de $ 8.000.000. En este caso, los intereses representan el 20 % de la utilidad operacional. Si la utilidad operacional se reduce a $ 20.000.000, esos mismos intereses representarían el 40 %, aumentando la presión sobre el resultado.
+                p Una empresa tiene utilidad operacional de $40.000.000 y gastos financieros de $8.000.000. En este caso, los intereses representan el 20 % de la utilidad operacional. Si la utilidad operacional se reduce a $20.000.000, esos mismos intereses representarían el 40 %, aumentando la presión sobre el resultado.
                 p.mb-0 La deuda debe evaluarse según la capacidad de la operación para generar utilidad y cubrir los pagos financieros.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
@@ -372,18 +372,18 @@
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
                   td.ajuste-border-tabla.texto-left Dato suministrado
-                  td.texto-left $ 20.000.000
+                  td.texto-left $20.000.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Gastos financieros
                   td.ajuste-border-tabla.texto-left Dato suministrado
-                  td.texto-left $ 5.000.000
+                  td.texto-left $5.000.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad antes de impuestos
-                  td.ajuste-border-tabla.texto-left $ 20.000.000 - $ 5.000.000
-                  td.texto-left $ 15.000.000
+                  td.ajuste-border-tabla.texto-left $20.000.000 - $5.000.000
+                  td.texto-left $15.000.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Grado de apalancamiento financiero
-                  td.ajuste-border-tabla.texto-left $ 20.000.000 / $ 15.000.000
+                  td.ajuste-border-tabla.texto-left $20.000.000 / $15.000.000
                   td.texto-left 1,33
       p.mb-5 La interpretación es la siguiente:
       .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in")
@@ -460,18 +460,18 @@
               tbody
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
-                  td.ajuste-border-tabla.texto-left $ 20.000.000
-                  td.ajuste-border-tabla.texto-left $ 24.800.000
+                  td.ajuste-border-tabla.texto-left $20.000.000
+                  td.ajuste-border-tabla.texto-left $24.800.000
                   td.texto-left 24,0 %
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Gastos financieros
-                  td.ajuste-border-tabla.texto-left $ 5.000.000
-                  td.ajuste-border-tabla.texto-left $ 5.000.000
+                  td.ajuste-border-tabla.texto-left $5.000.000
+                  td.ajuste-border-tabla.texto-left $5.000.000
                   td.texto-left 0,0 %
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad antes de impuestos
-                  td.ajuste-border-tabla.texto-left $ 15.000.000
-                  td.ajuste-border-tabla.texto-left $ 19.800.000
+                  td.ajuste-border-tabla.texto-left $15.000.000
+                  td.ajuste-border-tabla.texto-left $19.800.000
                   td.texto-left 32,0 %
       .row.justify-content-center.align-items-center.mb-0
         .col-xl.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -582,11 +582,11 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Precio de venta unitario: $ 80.000
+              | Precio de venta unitario: $80.000
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Costo variable unitario: $ 50.000
+              | Costo variable unitario: $50.000
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
@@ -594,11 +594,11 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Costos fijos: $ 18.000.000
+              | Costos fijos: $18.000.000
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Gastos financieros: $ 2.000.000
+              | Gastos financieros: $2.000.000
           p.mb-0 En la siguiente tabla organiza la información necesaria para calcular apalancamiento operativo, financiero y total.
         .row.justify-content-center.mb-5
           .col-xl-7
@@ -616,32 +616,32 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Ventas
-                    td.ajuste-border-tabla.texto-left 1.000 × $ 80.000
-                    td.texto-left $ 80.000.000
+                    td.ajuste-border-tabla.texto-left 1.000 × $80.000
+                    td.texto-left $80.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos variables
-                    td.ajuste-border-tabla.texto-left 1.000 × $ 50.000
-                    td.texto-left $ 50.000.000
+                    td.ajuste-border-tabla.texto-left 1.000 × $50.000
+                    td.texto-left $50.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Margen de contribución
-                    td.ajuste-border-tabla.texto-left $ 80.000.000 - $ 50.000.000
-                    td.texto-left $ 30.000.000
+                    td.ajuste-border-tabla.texto-left $80.000.000 - $50.000.000
+                    td.texto-left $30.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Costos fijos
                     td.ajuste-border-tabla.texto-left Dato suministrado
-                    td.texto-left $ 18.000.000
+                    td.texto-left $18.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad operacional
-                    td.ajuste-border-tabla.texto-left $ 30.000.000 - $ 18.000.000
-                    td.texto-left $ 12.000.000
+                    td.ajuste-border-tabla.texto-left $30.000.000 - $18.000.000
+                    td.texto-left $12.000.000
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Gastos financieros
                     td.ajuste-border-tabla.texto-left Dato suministrado
-                    td.texto-left $ 2.000.000
+                    td.texto-left $2.000.000
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Utilidad antes de impuestos
-                    td.ajuste-border-tabla.texto-left $ 12.000.000 - $ 2.000.000
-                    td.texto-left $ 10.000.000
+                    td.ajuste-border-tabla.texto-left $12.000.000 - $2.000.000
+                    td.texto-left $10.000.000
         p.mb-5 La siguiente tabla refleja el cálculo de los grados de apalancamiento de la empresa:
         .row.justify-content-center.mb-5
           .col-xl-8
@@ -659,11 +659,11 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Grado de apalancamiento operativo
-                    td.ajuste-border-tabla.texto-left $ 30.000.000 / $ 12.000.000
+                    td.ajuste-border-tabla.texto-left $30.000.000 / $12.000.000
                     td.texto-left 2,50
                   tr
                     td.ajuste-border-tabla.texto-left.text-weight-bold Grado de apalancamiento financiero
-                    td.ajuste-border-tabla.texto-left $ 12.000.000 / $ 10.000.000
+                    td.ajuste-border-tabla.texto-left $12.000.000 / $10.000.000
                     td.texto-left 1,20
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left.text-weight-bold Grado de apalancamiento total

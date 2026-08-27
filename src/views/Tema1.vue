@@ -57,7 +57,7 @@
           p El siguiente ejemplo permite aplicar la ruta de interpretación a una situación de liquidez:
           .caja-3(data-aos="fade-right")
             h5 Ejemplo aplicado
-            p Una empresa presenta razón corriente de 1,8. El resultado indica que tiene $ 1,8 de activo corriente por cada $ 1 de pasivo corriente. Sin embargo, al revisar la prueba ácida, se obtiene 0,9. Esto significa que, al excluir inventarios, la capacidad de pago disminuye considerablemente.
+            p Una empresa presenta razón corriente de 1,8. El resultado indica que tiene $1,8 de activo corriente por cada $1 de pasivo corriente. Sin embargo, al revisar la prueba ácida, se obtiene 0,9. Esto significa que, al excluir inventarios, la capacidad de pago disminuye considerablemente.
             p.mb-0 La empresa depende parcialmente de los inventarios para cubrir sus obligaciones de corto plazo, por lo que debe revisar su rotación, la recuperación de cartera y la programación de pagos.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
@@ -90,7 +90,7 @@
             p Una empresa presenta los siguientes resultados:
             p.mb-0 Razón corriente: 1,6
             p.mb-0 Prueba ácida: 0,8
-            p Capital de trabajo neto: $ 45.000.000
+            p Capital de trabajo neto: $45.000.000
             p.mb-0 Aunque existe capacidad general de pago, la empresa depende de los inventarios para cubrir sus obligaciones, por lo que debe revisar su rotación, acumulación y recuperación de cartera.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
@@ -200,7 +200,7 @@
           h5 Ejemplo aplicado
           br
           br
-          p Una empresa presenta nivel de endeudamiento de 62 %, relación deuda-patrimonio de 1,6 y cobertura de intereses de 2 veces. Esto significa que una parte importante de sus activos está financiada con deuda, que por cada peso de patrimonio existen $ 1,6 de obligaciones y que la utilidad operacional cubre dos veces los intereses.
+          p Una empresa presenta nivel de endeudamiento de 62 %, relación deuda-patrimonio de 1,6 y cobertura de intereses de 2 veces. Esto significa que una parte importante de sus activos está financiada con deuda, que por cada peso de patrimonio existen $1,6 de obligaciones y que la utilidad operacional cubre dos veces los intereses.
           br
           br
           p.mb-0 Aunque la empresa cubre sus gastos financieros, debe revisar tasas, plazos, flujo de caja y nuevas obligaciones para proteger su capacidad de pago.
