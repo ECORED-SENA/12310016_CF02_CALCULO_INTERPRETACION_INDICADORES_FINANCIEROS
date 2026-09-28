@@ -6,11 +6,12 @@
         .titulo-principal__numero
           span 2
         h1 Punto de equilibrio para decisiones operativas
-      .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
+      .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img1.jpg')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 El punto de equilibrio identifica el nivel mínimo de ventas necesario para cubrir costos sin generar utilidad ni pérdida. Relaciona precio, costos variables, costos fijos y margen de contribución, y apoya decisiones sobre precios, costos, metas de ventas, utilidad esperada y control operativo.
+      Separador
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.1 Concepto e importancia del punto de equilibrio
       p.mb-5 El punto de equilibrio identifica las ventas mínimas para cubrir costos sin pérdida ni utilidad, relacionando precio, costos y margen de contribución. Reconozca cómo apoya decisiones operativas así:
@@ -71,7 +72,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t2/img9.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Costo fijo").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Permanece estable dentro de un rango de actividad. Ejemplos: arriendo, seguros o salarios administrativos.
             .row(titulo="Costo variable").ajuste-cajaAcordion.ajuste-vineta
@@ -144,7 +145,7 @@
             span Cálculo del margen de contribución
           .tabla-a(data-aos="zoom-in")
             table
-              caption La tabla presenta cómo calcular el margen de contribución unitario y porcentual.
+              caption Nota. La tabla presenta cómo calcular el margen de contribución unitario y porcentual.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -214,7 +215,7 @@
             span Cálculo del punto de equilibrio en unidades
           .tabla-a(data-aos="zoom-in")
             table
-              caption La tabla presenta el cálculo del número mínimo de unidades que debe vender la empresa.
+              caption Nota. La tabla presenta el cálculo del número mínimo de unidades que debe vender la empresa.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -290,7 +291,7 @@
             span Cálculo del punto de equilibrio en ventas
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para calcular el punto de equilibrio expresado en valor de ventas.
+              caption Nota. Tabla con fines didácticos para calcular el punto de equilibrio expresado en valor de ventas.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -376,7 +377,7 @@
               span Cálculo de ventas con utilidad esperada
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para calcular el volumen requerido cuando se desea obtener utilidad.
+                caption Nota. Tabla con fines didácticos para calcular el volumen requerido cuando se desea obtener utilidad.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Concepto
@@ -466,7 +467,7 @@
       #t_2_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.8 Decisiones sobre precios, costos, volumen y utilidad
       p.mb-5 El punto de equilibrio permite analizar cómo cambian los resultados cuando se modifican precios, costos o volumen de ventas. Estas decisiones pueden aumentar o reducir la presión sobre las ventas mínimas. A continuación, se presenta cómo algunas decisiones pueden afectar el punto de equilibrio:
-      SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+      SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-3
             .col-8
@@ -514,7 +515,7 @@
               span Datos iniciales para calcular punto de equilibrio
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para organizar los datos antes de aplicar fórmulas de punto de equilibrio.
+                caption Nota. Tabla con fines didácticos para organizar los datos antes de aplicar fórmulas de punto de equilibrio.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Dato
@@ -540,7 +541,7 @@
               span Desarrollo del punto de equilibrio
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para integrar el cálculo del punto de equilibrio y la utilidad esperada.
+                caption Nota. Tabla con fines didácticos para integrar el cálculo del punto de equilibrio y la utilidad esperada.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Cálculo

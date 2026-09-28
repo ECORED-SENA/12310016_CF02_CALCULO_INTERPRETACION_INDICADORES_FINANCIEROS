@@ -6,13 +6,14 @@
         .titulo-principal__numero
           span 5
         h1 Informe financiero y recomendaciones para la toma de decisiones
-      .caja-1.mb-5(data-aos="zoom-in")
+      .caja-1(data-aos="zoom-in")
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1-p
             p.mb-0 El informe financiero organiza e interpreta los resultados para identificar fortalezas, riesgos y acciones relacionadas con liquidez, rentabilidad, endeudamiento, costos, ventas y capacidad de pago (Nieto, 2022).
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t5/img1.png', alt='').m-auto
+      Separador
       .bg-2
         .px-5
           #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -25,7 +26,7 @@
                 span Estructura básica del informe financiero
               .tabla-a(data-aos="zoom-in")
                 table
-                  caption Tabla con fines didácticos para estructurar un informe financiero aplicado a decisiones empresariales.
+                  caption Nota. Tabla con fines didácticos para estructurar un informe financiero aplicado a decisiones empresariales.
                   thead
                     tr
                       th.ajuste-border-tabla.texto-left Apartado
@@ -176,7 +177,7 @@
                 span Guía para elaborar diagnóstico financiero
               .tabla-a(data-aos="zoom-in")
                 table
-                  caption Tabla con fines didácticos para formular diagnósticos financieros a partir de resultados integrados.
+                  caption Nota. Tabla con fines didácticos para formular diagnósticos financieros a partir de resultados integrados.
                   thead
                     tr
                       th.ajuste-border-tabla.texto-left Resultado observado
@@ -238,7 +239,7 @@
             span Criterios para redactar conclusiones financieras
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para orientar la formulación de conclusiones financieras.
+              caption Nota. Tabla con fines didácticos para orientar la formulación de conclusiones financieras.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Criterio
@@ -296,7 +297,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t5/img18.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Razón corriente estable").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Se recomienda mejorar el seguimiento al flujo de caja, con el fin de mantener la capacidad de pago de la empresa.
             .row(titulo="Días de cartera moderados").ajuste-cajaAcordion.ajuste-vineta
@@ -307,7 +308,7 @@
               p.mb-3 Se recomienda comparar tasas y plazos de las obligaciones financieras, para reducir el costo financiero.
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
             .row(titulo="Margen neto positivo").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Se recomienda analizar la rentabilidad por producto, con el fin de fortalecer las líneas más rentables.
             .row(titulo="Punto de equilibrio superado").ajuste-cajaAcordion.ajuste-vineta
@@ -336,7 +337,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t5/img21.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Prueba ácida menor que 1").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Puede originarse por inventarios altos o cartera lenta. Se recomienda recuperar cartera y depurar inventarios.
             .row(titulo="Días de cartera elevados").ajuste-cajaAcordion.ajuste-vineta
@@ -347,7 +348,7 @@
               p.mb-3 Puede originarse por nuevas obligaciones sin suficiente generación de recursos. Se recomienda renegociar deuda y limitar nuevos créditos.
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
             .row(titulo="Baja cobertura de intereses").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Puede deberse a intereses altos frente a la utilidad operacional. Se recomienda revisar tasas, plazos y opciones de refinanciación.
             .row(titulo="Margen neto bajo").ajuste-cajaAcordion.ajuste-vineta
@@ -377,7 +378,7 @@
       p.mb-5 Las acciones preventivas buscan anticipar riesgos antes de que se conviertan en problemas financieros. Se apoyan en seguimiento, control, proyección y validación permanente de la información. Estas son:
       .bg-1
         .px-5
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
@@ -447,7 +448,7 @@
               span Resultados financieros de Comercial Futuro S.A.S.
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para integrar resultados financieros en un informe de análisis.
+                caption Nota. Tabla con fines didácticos para integrar resultados financieros en un informe de análisis.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Herramienta
@@ -501,7 +502,7 @@
           span Informe financiero resumido de Comercial Futuro S.A.S.
         .tabla-a(data-aos="zoom-in").mb-5
           table
-            caption Tabla con fines didácticos para presentar resultados financieros orientados a la toma de decisiones.
+            caption Nota. Tabla con fines didácticos para presentar resultados financieros orientados a la toma de decisiones.
             thead
               tr
                 th.ajuste-border-tabla.texto-left Aspecto analizado
@@ -551,17 +552,18 @@
                 td.texto-left Simular escenarios y evitar nuevos costos fijos sin análisis.
         p.mb-5 La interpretación del caso es la siguiente:
         .caja-6(data-aos="zoom-in").mb-5
-          h5 Interpretación del caso: 
+          p #[b Interpretación del caso] 
           p Comercial Futuro S.A.S. presenta capacidad general de pago, aunque su liquidez inmediata es limitada y parte de sus recursos permanece concentrada en cartera e inventarios. El endeudamiento del 63 % y la cobertura de intereses de 2,1 veces requieren seguimiento, debido a que una reducción de las ventas o un aumento de los gastos podría afectar su capacidad de pago.
           p.mb-0 La empresa también registra un margen neto bajo, un margen de seguridad reducido frente al punto de equilibrio y un apalancamiento total elevado. Por esta razón, debe revisar sus costos, gastos, precios, condiciones financieras y estrategias de ventas para disminuir el riesgo y fortalecer sus resultados.
         p.mb-5 Del presente caso, se genera la siguiente conclusión:
         .caja-6(data-aos="zoom-in").mb-5
-          h5 Conclusiones del caso: 
+          p #[b Conclusiones del caso]
           p Comercial Futuro S.A.S. supera el punto de equilibrio y genera utilidad, pero presenta alertas en liquidez, actividad, endeudamiento y rentabilidad. Por ello, debe mejorar la recuperación de cartera, la rotación de inventarios y el control de sus obligaciones financieras.
           p.mb-0 Antes de asumir nuevos costos fijos o deudas, la empresa debe simular escenarios y evaluar el efecto de las ventas, los costos y los gastos financieros sobre la utilidad.
         p.mb-5 Las recomendaciones finales son:
         .caja-6(data-aos="zoom-in")
-          p.mb-0 #[b Recomendaciones finales:] se recomienda realizar seguimiento mensual a la cartera y los inventarios, revisar las condiciones de endeudamiento y evaluar costos, gastos, precios y rentabilidad por producto. Además, la hoja electrónica debe utilizarse para simular escenarios y anticipar riesgos financieros.
+          p #[b Recomendaciones finales]
+          p.mb-0 Se recomienda realizar seguimiento mensual a la cartera y los inventarios, revisar las condiciones de endeudamiento y evaluar costos, gastos, precios y rentabilidad por producto. Además, la hoja electrónica debe utilizarse para simular escenarios y anticipar riesgos financieros.
       p.mb-0 El informe financiero identifica riesgos y orienta acciones para fortalecer la gestión y la sostenibilidad empresarial.
 
 </template>

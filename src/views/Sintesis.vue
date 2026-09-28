@@ -2,13 +2,13 @@
   .curso-main-container.pb-3
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p A continuación, se presenta una síntesis de la temática estudiada por el componente formativo.
+      p A continuación, se presenta una síntesis de la temática estudiada en el componente formativo.
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure
             img(src="@/assets/curso/sintesis.svg", alt="El esquema sintetiza la interpretación de indicadores financieros para la toma de decisiones, relacionando elementos como liquidez, actividad, endeudamiento, rentabilidad, punto de equilibrio y apalancamiento. En conjunto, refleja que el análisis financiero no solo implica calcular resultados, sino interpretarlos según el contexto empresarial para orientar decisiones responsables y oportunas.")
         .col-auto
-          a.anexo.mb-5(:href="obtenerLink('/downloads/Síntesis.pdf')" target="_blank")
+          a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/bullets/icono-pdf.svg")
             .anexo__texto

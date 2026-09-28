@@ -296,7 +296,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/12310016_CF02_DU.pdf',
+        download: 'downloads/12310016_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -451,7 +451,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -465,13 +465,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Joinner Enrique Osorio Martínez',
-          cargo: 'Experto temático',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Paola Alexandra Moya',
+          nombre: 'Paula Marcela Vidal Quintero',
           cargo: 'Evaluadora instruccional',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -518,7 +518,7 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'María Carolina Tamayo López',
+          nombre: 'María Carolina Tamayo Lopez',
           cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

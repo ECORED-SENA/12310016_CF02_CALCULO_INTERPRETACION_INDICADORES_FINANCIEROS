@@ -6,11 +6,12 @@
         .titulo-principal__numero
           span 1
         h1 Interpretación de indicadores para la gestión empresarial
-      .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
+      .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img1.jpg')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 Los indicadores financieros permiten evaluar la liquidez, actividad, endeudamiento y rentabilidad de la empresa. Su interpretación ayuda a detectar riesgos y orientar decisiones sobre cobros, gastos, financiación, precios y operación (Martínez, 2008).
+      Separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.1 De los resultados numéricos a la interpretación financiera
       p.mb-5 El indicador financiero debe interpretarse y relacionarse con otros resultados, periodos anteriores, metas, políticas empresariales o referencias del sector. Este proceso permite convertir el dato calculado en información útil, como se presenta a continuación:
@@ -71,7 +72,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t1/img8.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Razón corriente mayor que 1").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Indica que el activo corriente supera el pasivo corriente; se debe revisar si esos activos son recuperables.
             .row(titulo="Prueba ácida menor que 1").ajuste-cajaAcordion.ajuste-vineta
@@ -106,7 +107,7 @@
             span Interpretación de indicadores de actividad o gestión
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para interpretar indicadores de actividad y relacionarlos con decisiones de gestión.
+              caption Nota. Tabla con fines didácticos para interpretar indicadores de actividad y relacionarlos con decisiones de gestión.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Indicador
@@ -267,7 +268,7 @@
             span Relación entre indicadores y decisiones empresariales
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para relacionar indicadores financieros con decisiones empresariales.
+              caption Nota. Tabla con fines didácticos para relacionar indicadores financieros con decisiones empresariales.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Área de decisión
@@ -337,7 +338,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t1/img27.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Baja liquidez inmediata").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Asociada con prueba ácida menor que 1; se recomienda revisar efectivo, cartera e inventarios.
             .row(titulo="Demora en recaudos").ajuste-cajaAcordion.ajuste-vineta
@@ -349,7 +350,7 @@
       p.mb-5 
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
             .row(titulo="Intereses con alto peso").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Asociados con baja cobertura de intereses; se recomienda revisar tasas, plazos y utilidad operacional.
             .row(titulo="Margen neto bajo").ajuste-cajaAcordion.ajuste-vineta
@@ -361,7 +362,7 @@
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t1/img28.png", alt="" ).m-auto
-      p.mb-5 En el siguiente caso aplicar los temas abordados:
+      p.mb-5 El siguiente caso, aplicar los temas abordados:
       .caja-5.mb-5(data-aos="zoom-in")
         h5 Ejemplo aplicado
         p La empresa Comercial Horizonte S.A.S. presenta los siguientes resultados del año 2:
@@ -372,7 +373,7 @@
               span Resultados financieros de Comercial Horizonte S.A.S.
             .tabla-a(data-aos="zoom-in")
               table
-                caption La tabla presenta indicadores financieros calculados previamente para realizar su interpretación.
+                caption Nota. La tabla presenta indicadores financieros calculados previamente para realizar su interpretación.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Grupo

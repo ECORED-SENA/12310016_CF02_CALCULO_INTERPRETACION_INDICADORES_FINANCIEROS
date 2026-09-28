@@ -6,11 +6,12 @@
         .titulo-principal__numero
           span 4
         h1 Hoja electrónica para escenarios financieros
-      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
+      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t4/img1.jpg')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 La hoja electrónica permite calcular indicadores y simular cambios en variables financieras para comparar alternativas, anticipar riesgos y apoyar la toma de decisiones (Office, s. f.).
+      Separador
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.1 Organización de datos para interpretar indicadores
       p.mb-5 La organización de datos es esencial para construir escenarios financieros. La hoja electrónica debe separar entradas, supuestos, fórmulas, resultados, interpretación y decisiones mediante los siguientes pasos:
@@ -275,7 +276,7 @@
             span Lista de verificación para escenarios financieros
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para validar cálculos y escenarios antes de presentar resultados financieros.
+              caption Nota. Tabla con fines didácticos para validar cálculos y escenarios antes de presentar resultados financieros.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Aspecto por revisar
@@ -386,7 +387,7 @@
               span Datos base para construir escenarios financieros
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para organizar datos de entrada antes de construir escenarios.
+                caption Nota. Tabla con fines didácticos para organizar datos de entrada antes de construir escenarios.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Dato
@@ -454,7 +455,7 @@
               span Escenario proyectado con disminución del 10 % en ventas
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para analizar un escenario de reducción en ventas.
+                caption Nota. Tabla con fines didácticos para analizar un escenario de reducción en ventas.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Concepto

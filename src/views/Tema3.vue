@@ -6,13 +6,14 @@
         .titulo-principal__numero
           span 3
         h1 Apalancamiento operativo y financiero
-      .caja-1.mb-5(data-aos="zoom-in")
+      .caja-1(data-aos="zoom-in")
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-1-p
             p.mb-0 El apalancamiento analiza cómo los costos fijos y la financiación amplifican el efecto de las ventas sobre los resultados. Incluye apalancamiento operativo, financiero y total, y permite tomar decisiones sobre costos, deuda, precios, ventas, expansión y sostenibilidad financiera.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t3/img1.png', alt='').m-auto
+      Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.1 Concepto de apalancamiento en la empresa
       p.mb-5 El apalancamiento utiliza costos fijos o gastos financieros para ampliar los resultados, aunque también puede aumentar el riesgo. Sus tipos y efectos se presentan a continuación:
@@ -21,7 +22,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t3/img2.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Apalancamiento operativo").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Se genera por costos fijos operacionales y afecta la utilidad operacional. Se utiliza para medir la sensibilidad de la utilidad operacional frente a cambios en ventas.
             .row(titulo="Apalancamiento financiero").ajuste-cajaAcordion.ajuste-vineta
@@ -154,7 +155,7 @@
             span Cálculo del grado de apalancamiento operativo
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para calcular el grado de apalancamiento operativo a partir del margen de contribución y la utilidad operacional.
+              caption Nota. Tabla con fines didácticos para calcular el grado de apalancamiento operativo a partir del margen de contribución y la utilidad operacional.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -249,7 +250,7 @@
             span Apalancamiento operativo por variación porcentual
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para analizar el efecto de un cambio en ventas sobre la utilidad operacional.
+              caption Nota. Tabla con fines didácticos para analizar el efecto de un cambio en ventas sobre la utilidad operacional.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -362,7 +363,7 @@
             span Cálculo del apalancamiento financiero
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para calcular el grado de apalancamiento financiero a partir de la utilidad operacional y los gastos financieros.
+              caption Nota. Tabla con fines didácticos para calcular el grado de apalancamiento financiero a partir de la utilidad operacional y los gastos financieros.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -450,7 +451,7 @@
             span Apalancamiento financiero por variación porcentual
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para analizar el efecto de los gastos financieros sobre el resultado antes de impuestos.
+              caption Nota. Tabla con fines didácticos para analizar el efecto de los gastos financieros sobre el resultado antes de impuestos.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Concepto
@@ -499,7 +500,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t3/img39.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Apalancamiento operativo").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Mide el efecto de los costos fijos sobre la utilidad operacional.
             .row(titulo="Apalancamiento financiero").ajuste-cajaAcordion.ajuste-vineta
@@ -517,7 +518,7 @@
               span Cálculo del apalancamiento total
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para calcular el efecto conjunto del apalancamiento operativo y financiero.
+                caption Nota. Tabla con fines didácticos para calcular el efecto conjunto del apalancamiento operativo y financiero.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Concepto
@@ -546,7 +547,7 @@
             span Interpretación del apalancamiento y decisiones asociadas
           .tabla-a(data-aos="zoom-in")
             table
-              caption Tabla con fines didácticos para convertir los resultados de apalancamiento en decisiones financieras.
+              caption Nota. Tabla con fines didácticos para convertir los resultados de apalancamiento en decisiones financieras.
               thead
                 tr
                   th.ajuste-border-tabla.texto-left Resultado observado
@@ -607,7 +608,7 @@
               span Datos para calcular apalancamiento
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para preparar el cálculo de apalancamientos.
+                caption Nota. Tabla con fines didácticos para preparar el cálculo de apalancamientos.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Concepto
@@ -650,7 +651,7 @@
               span Cálculo de apalancamiento operativo, financiero y total
             .tabla-a(data-aos="zoom-in")
               table
-                caption Tabla con fines didácticos para integrar el cálculo de apalancamiento operativo, financiero y total.
+                caption Nota. Tabla con fines didácticos para integrar el cálculo de apalancamiento operativo, financiero y total.
                 thead
                   tr
                     th.ajuste-border-tabla.texto-left Indicador
